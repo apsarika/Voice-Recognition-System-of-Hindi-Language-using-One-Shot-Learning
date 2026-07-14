@@ -4,12 +4,21 @@ This project presents a Hindi Voice Recognition System developed for speaker ide
 The project evaluates multiple approaches and compares their performance to identify the most effective model for recognizing speakers from Hindi speech.
 
 Features
-Custom Hindi speech dataset creation
+
+Hindi speech dataset creation
+
 Audio preprocessing and normalization
+
 MFCC, Delta, and Delta-Delta feature extraction
+
 Machine Learning models (SVM, KNN, Random Forest)
+
 Deep Learning models (CNN, LSTM)
+
 Hybrid models for improved performance
+
 Ensemble learning (Voting & Stacking)
+
 One-Shot Learning using Siamese Network
+
 Comprehensive performance evaluation and visualization
